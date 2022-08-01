@@ -48,7 +48,7 @@
     .nav-list {
       list-style: none;
       display: flex;
-      margin-left: 130vh;
+      margin-left: 120vh;
     }
     
     .nav-list li {
@@ -97,7 +97,7 @@
       }
       .mobile-menu {
         display: block;
-        margin-left: 50vh;
+        margin-left: 47vh;
       }
       .card{
         width: 70%;
