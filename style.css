@@ -76,6 +76,10 @@
         width: 100%;
       }
   
+      body{
+        background-image: url(./Imagens/DSCN1977.JPG)
+      }
+
       .nav-list {
         position: absolute;
         top: 18vh;
@@ -97,7 +101,7 @@
       }
       .mobile-menu {
         display: block;
-        margin-left: 47vh;
+        margin: 14vh;
       }
       .card{
         width: 70%;
